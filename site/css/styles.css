@@ -1,0 +1,52 @@
+/* navbar */
+
+.navbar-nav {
+	border-radius: 0px;
+	border: 1px solid #000;
+}
+
+.navbar-nav a {
+	text-align: center;
+	color: black;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+
+
+.navbar-brand {
+	text-align: left;
+	color: black;
+}
+
+/**/
+.text-center {
+	font-size: 150%;
+
+}
+/* Responsive */
+
+.row {
+	width: 100%
+}
+
+.title_chicken {
+	text-align: center;
+	padding: 5px;
+	margin: 0px;
+	font-size: 150%;
+	font-family: sans-serif;
+	
+}
+
+section {
+	border: 2px solid black;
+	float: left;
+	margin: 5%;
+	padding: 0px;
+	background-color: gray;
+	height: 1000px;
+}
+.description {
+	padding: 5px;
+	clear: both;
+}
